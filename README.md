@@ -2,7 +2,9 @@
 PROJECT 4
 
 Team Members:
+
 Kiwaski Nix
+
 Mina Agyen
 
 OVERVIEW
