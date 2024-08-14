@@ -19,5 +19,9 @@ We begins by cleaning, transforming, and preparing the dataset for analysis usin
 Implementing machine learning models to predict consumer spending trends using algorithms such as linear regression, decision trees, and random forests are implemented and evaluated. The goal is to identify the most effective model for predicting future spending based on historical data.
 We are building comprehensive dashboards in Tableau to visually represent consumer spending patterns and the outcomes of the machine learning models.
 
+CONCLUSION:
+
+By generating summary statistics on age, income, purchase frequency, and customers' spending habits, we noticed that in 2023, BCG found that people aged 50–70 in 12 countries, including the US and China, were responsible for 27% of spending. The United Nations estimates that people over 50 spend about $15 trillion globally, which is expected to continue increasing.
+
 # Resources 
 The data was obtained from Kaggle https://www.kaggle.com.
